@@ -1,22 +1,3 @@
-
-# Parvin's file JSP Page with Recommendation Based on Day time
-
- Dear students,
-
-Please create the JSP page which will contain HTML code and "if-else" conditions based on day time.
-
-For instance,
-
-1) if current date time is less than 12 PM, HTML page should recommend to have a breakfast
-
-2) if current date time is more or equal than 12 PM and less or equal than 16 PM, page should recommend to have a lunch
-
-3) if current date time is more than 16 PM, page should recommend to have a dinner/supper
-
-
-
-Homework 2
-
 # HW2's file Servlet Based Student Personal Cabinet
 
 Please create Backend Application using Servlet and JSP technology which will consist of Registration, Authentication and Personal Cabinet page by integration with PostgreSQL using JDBC driver and Connection Pool
